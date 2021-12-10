@@ -1,0 +1,17 @@
+.first{
+  background-color: black;
+}
+.second{
+  background-color: red;
+}
+.third{
+  background-color: Aqua;
+}
+.fourth{
+  background-color: powderblue;
+}
+.name{
+  text-align:center;
+  font-size:60px;
+  font-family:'facifico', cursive;
+}
